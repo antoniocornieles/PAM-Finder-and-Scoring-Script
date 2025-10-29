@@ -1,0 +1,7 @@
+| Organism / Target              | Description                      | Accession ID  |
+| ------------------------------ | -------------------------------- | ------------- |
+| **SARS-CoV-2**                 | Full genome (COVID-19)           | `NC_045512.2` |
+| **E. coli K-12**               | Model bacteria genome            | `NC_000913.3` |
+| **Human β-globin gene**        | Classic example for CRISPR demos | `NG_000007.3` |
+| **Influenza A (H1N1)**         | Viral genome                     | `NC_002023.1` |
+| **Mycobacterium tuberculosis** | Bacterial pathogen               | `NC_000962.3` |
